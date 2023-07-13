@@ -1,7 +1,4 @@
 
-[![MasterHead](https://64.media.tumblr.com/f8c913f567cbd81c8f009758e174d2a5/8dd9ec8e84e90a09-24/s1280x1920/c3a4bfe3affdc297cbe0899ab30f25a5d19a8788.png)](https://harshill33.io)
-
-
 <h1 align="center">Hi 👋, I'm harshill</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
